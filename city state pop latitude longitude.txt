@@ -1,0 +1,11 @@
+city,state,population,lat,lon
+New York,NY,8336817,40.71,-74.01
+Los Angeles,CA,3979576,34.05,-118.24
+Chicago,IL,2693976,41.88,-87.63
+Houston,TX,2320268,29.76,-95.37
+Phoenix,AZ,1680992,33.45,-112.07
+Philadelphia,PA,1584138,39.95,-75.17
+San Antonio,TX,1547253,29.42,-98.49
+San Diego,CA,1423851,32.72,-117.16
+Dallas,TX,1343573,32.78,-96.80
+San Jose,CA,1021795,37.34,-121.89
